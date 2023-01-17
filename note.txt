@@ -1,2 +1,5 @@
 We plotted life expectancy over time
 Each point represents a country
+continents are distinguished by color
+
+
